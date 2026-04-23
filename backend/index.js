@@ -24,7 +24,7 @@ cloudinary.config({
 });
 
 const User = require("./modules/User.js");
-const Recipe = require("./modules/recipe.js");
+const Recipe = require("./modules/Recipe.js");
 
 //--------------------
 // Multer config (temporary disk storage)
